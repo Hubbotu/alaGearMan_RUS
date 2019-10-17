@@ -11,3 +11,7 @@
 	L["Style_C"] = "Стиль текста";
 	L["Take_Off_All"] = "Снять все";
 	L["In Combat"] = "Не может измениться в бою!";
+        L["Take-off-all On Right"] = true;   -- button of  "Снять все снаряжение" layed on the right
+        L["Take-off-all On Left"] = true;  -- button of  "Снять все снаряжение" layed on the left
+        L["takeoffAll_include_finger_and_trinket"] = "Снять все снаряжение включает в себя кольцо, акссесуар, плащ и снаряжение с продолжительностью 0%";
+        L["takeoffAll_include_finger_and_trinket_false"] = "Снять все снаряжение \124cffff0000DONOT\124r включает в себя кольцо, акссесуар, плащ и снаряжение с продолжительностью 0%";
